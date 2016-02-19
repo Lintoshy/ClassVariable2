@@ -8,5 +8,21 @@ public class keyboard {
 	String layout;
 	boolean additionalLayout;
 	String design;
+	
+	void impress () {
+	}
+	
+	void pressingOfKey () {
+	}
+	
+	void transliteration () {
+	}
+	
+	boolean isAdditionalLayout (){
+		return additionalLayout;
+	}
+	
+	void properties () {
+	}
 
 }
